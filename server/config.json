@@ -1,0 +1,35 @@
+{"servers":
+	[
+		{
+			"username": "USER",
+			"password": "USER_PASSWORD",
+			"name": "3080",
+			"type": "GPU",
+			"host": "No",
+			"location": "576",
+			"disabled": false
+		},
+		
+		{
+			"username": "3060",
+			"password": "USER_PASSWORD",
+			"name": "3060",
+			"type": "GPU",
+			"host": "No",
+			"location": "572",
+			"disabled": false
+		},
+		{
+			"username": "4090",
+			"password": "USER_PASSWORD",
+			"name": "4090",
+			"type": "GPU",
+			"host": "No",
+			"location": "576",
+			"disabled": false
+		}
+
+	]
+}
+
+
